@@ -19,8 +19,8 @@ public class Main {
         mentoria.setDescricao("Live com alunos e interessados em programação");
         mentoria.setData(LocalDate.now());
 
-//        System.out.println(curso1);
-//        System.out.println(curso2);
-//        System.out.println(mentoria);
+        System.out.println(curso1);
+        System.out.println(curso2);
+        System.out.println(mentoria);
     }
 }
